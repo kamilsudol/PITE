@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 something xxxxxxx
 
 sthsdfsdfsd;
@@ -5,3 +6,6 @@ dfsdfsdf;
 sdfsdf;
 
 
+=======
+dskfnsdkmfksdjfkjsdlfjsdfljsdf
+>>>>>>> dev
